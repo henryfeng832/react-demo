@@ -1,50 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acbf1010-2ba0-4325-a2a7-e145ae7ba149" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/react-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Home.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/ClickCounter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/ClickCounterClass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/CustomHookUsage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/FriendStatus.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/FriendStatusClass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/Index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/LifeCycles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/Teach.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/UseCallbackDemo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/UseContextDemo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/UseEffectChangeState.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/UseMemoDemo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/UseReducerDemo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/UseRefDemo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/UseStateTrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/useAxios.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hookUsing/useMousePosition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    <list default="true" id="acbf1010-2ba0-4325-a2a7-e145ae7ba149" name="Changes" comment="clear project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,12 +23,12 @@
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="D:/workspace/IdeaProjects/Crown" value="PREVIEW" />
-        <entry key="D:/workspace/IdeaProjects/crown" value="PREVIEW" />
-        <entry key="D:/workspace/IdeaProjects/easy_kotlin_chapter2_hello_world_springboot_restful" value="PREVIEW" />
-        <entry key="D:/workspace/IdeaProjects/happymall" value="PREVIEW" />
-        <entry key="D:/workspace/IdeaProjects/mybatisplus-spring-boot" value="PREVIEW" />
-        <entry key="D:/workspace/IdeaProjects/readinglist" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/Crown" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/crown" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/easy_kotlin_chapter2_hello_world_springboot_restful" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/happymall" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/mybatisplus-spring-boot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/readinglist" value="PREVIEW" />
         <entry key="E:/workspace/runqin" value="PREVIEW" />
         <entry key="E:/workspace/runqin/eureka-server" value="PREVIEW" />
         <entry key="E:/workspace/runqin/teacher3" value="PREVIEW" />
@@ -97,7 +55,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PyCharm 2021.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -180,10 +138,34 @@
       <workItem from="1639986754677" duration="259000" />
       <workItem from="1639987032509" duration="26000" />
       <workItem from="1639987073067" duration="400000" />
+      <workItem from="1662544196931" duration="681000" />
     </task>
+    <task id="LOCAL-00001" summary="clear project">
+      <created>1662544286006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662544286006</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clear project" />
+    <option name="LAST_COMMIT_MESSAGE" value="clear project" />
   </component>
 </project>
